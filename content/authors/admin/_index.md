@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ivan Pagnossin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Data scientist, researcher and professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Universidade de São Paulo
+  url: https://usp.br
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Meus interesses de pesquisa incluem computação e informação quântica, física dos materiais, simulações e tecnologia educacional. Também me interesso pelas áreas de ciência de dados, inteligência artificial e programação de computadores.
 
 # Interests to show in About widget
 interests:
@@ -25,15 +25,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Especialização em computação aplicada à Educação
+    institution: Universidade de São Paulo/ICMC
+    year: 2020
+  - course: PhD em Ciências (Física)
+    institution: Universidade de São Paulo
     year: 2008
+  - course: MSc em Ciências (Física)
+    institution: Universidade de São Paulo
+    year: 2005
+  - course: BSc em Física
+    institution: Universidade de São Paulo
+    year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
