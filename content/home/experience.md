@@ -49,7 +49,7 @@ experience:
 
   - title: Coordinator of Data Analytics and Data Science
     company: Digital House
-    company_url: 'http://digitalhouse.com'
+    company_url: 'https://www.digitalhouse.com/br'
     company_logo: org-x
     location: São Paulo
     date_start: '2019-11-19'
@@ -121,7 +121,7 @@ experience:
 
   - title: Treinee researcher
     company: Institute of Physics (IF/USP)
-    company_url: 'https://if.usp.br/'
+    company_url: 'http://portal.if.usp.br/ifusp/'
     company_logo: org-x
     location: São Paulo
     date_start: '2002-02-01'
