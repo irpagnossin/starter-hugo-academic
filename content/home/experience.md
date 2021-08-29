@@ -125,7 +125,7 @@ experience:
     company_logo: org-x
     location: São Paulo
     date_start: '2002-02-01'
-    date_end: '2008-02-29'
+    date_end: '2008-02-28'
     description: IF/USP is one of the most important research centers on Physics in South America. I performed basic and applied experimental research on semiconductors quantum states, like quantum dots and quantum wells. The results, including the first evidence of counter-rotating edge states, were presented in national and international events of the area and published in international scientific papers with high impact factors. I also developed software to improve analysis of experimental data.
 
   - title: Programmer
@@ -134,7 +134,7 @@ experience:
     company_logo: org-x
     location: São Paulo
     date_start: '2001-03-01'
-    date_end: '2010-02-29'
+    date_end: '2010-02-28'
     description: Eletropiezo is a small company providing bespoke software development. I developed digital IRV systems based on IBM Direct Talk technology for Windows, which dealt with up to 360 simultaneous calls, for many of the greatest players of the financial sector in Brazil (the only digital IRV in Brazil at that time). It endured for 9 years, between 2001 and 2010.
 
 design:
